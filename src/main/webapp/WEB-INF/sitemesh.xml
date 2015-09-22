@@ -1,0 +1,5 @@
+<sitemesh>
+  <mapping path="/world/*" decorator="/decorator/main_decorator.jsp"/>
+  <mapping path="/employee/*" decorator="/decorator/main_decorator.jsp"/>
+  <mapping path="/util/*" decorator="/decorator/main_decorator.jsp"/>
+</sitemesh>
